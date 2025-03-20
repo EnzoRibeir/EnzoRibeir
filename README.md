@@ -6,9 +6,14 @@
 <h1 align="center">Olá, eu sou o Enzo 😄</h1>
 <h4 align="center">Sou estudante de Desenvolvimento de Software Multiplataforma na FATEC e amo Dragon Ball!🐉💜</h4>
 
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-800080?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzo-ribeiro-b6569b240/)
-[![E-mail](https://img.shields.io/badge/-Email-800080?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:enzo.ribeiro.dionisio@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/enzo-ribeiro-b6569b240/">
+    <img src="https://img.shields.io/badge/-LinkedIn-800080?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:enzo.ribeiro.dionisio@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-800080?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
+  </a>
+</p>
 <br>
 
 <h2 align="left" style="margin-bottom: 0; padding: 0;">Sobre mim</h2>
