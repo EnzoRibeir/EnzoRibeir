@@ -6,6 +6,9 @@
 <h1 align="center">Olá, eu sou o Enzo 😄</h1>
 <h4 align="center">Sou estudante de Desenvolvimento de Software Multiplataforma na FATEC e amo Dragon Ball!🐉💜</h4>
 
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-800080?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzo-ribeiro-b6569b240/)
+[![E-mail](https://img.shields.io/badge/-Email-800080?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:enzo.ribeiro.dionisio@gmail.com)
 <br>
 
 <h2 align="left" style="margin-bottom: 0; padding: 0;">Sobre mim</h2>
@@ -17,14 +20,10 @@
       <h5 align="left">🟣 Acredito que o aprendizado é contínuo e que <strong>compartilhar conhecimento e se desafiar sempre são as melhores formas de crescer</strong>. Vamos construir algo incrível juntos? 🚀</h5>
     </td>
     <td>
-      <img src="gifs/gokublack3.gif" width="250px" height="250px">
+      <img src="gifs/gokublack3.gif" width="220px" height="250px">
     </td>
   </tr>
 </table>
-
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-800080?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzo-ribeiro-b6569b240/)
-[![E-mail](https://img.shields.io/badge/-Email-800080?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:enzo.ribeiro.dionisio@gmail.com)
 
 <br>
 <h3 align="center">⚡ Github Status</h3>
