@@ -10,7 +10,7 @@
 <br>
 
  <h2 align="left">Sobre mim</h2>
-<div style="display:flex; gap:20px">
+<div style="display:flex; gap:20px;flex-direction=row">
 <div>
 <h4>🟣 Movido por desafios e pelo desejo constante de aprender, encontrei na tecnologia um universo onde posso unir <strong>lógica, criatividade e resolução de problemas</strong>. Programação, para mim, não é só escrever código, mas <strong>criar soluções que fazem a diferença</strong>.</h4>
 
