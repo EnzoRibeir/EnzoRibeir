@@ -53,6 +53,14 @@
 
 <br>
 
+<details open> 
+  <summary><h2>📘 Meus Top Projetos</h2></summary>
+  <p align="left">
+    <a href="https://github.com/EnzoRibeir/To-do-list"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=EnzoRibeir&repo=readme-typing-svg&theme=jolly&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
+  </p>
+</details>
+
+<br>
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
