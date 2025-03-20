@@ -9,7 +9,7 @@
 <br>
 
 <h2 align="left" style="margin-bottom: 0; padding: 0;">Sobre mim</h2>
-<table>
+<table border="0">
   <tr>
     <td>
       <h5 align="left">🟣 Movido por desafios e pelo desejo constante de aprender, encontrei na tecnologia um universo onde posso unir <strong>lógica, criatividade e resolução de problemas</strong>. Programação, para mim, não é só escrever código, mas <strong>criar soluções que fazem a diferença</strong>.</h5>
@@ -17,7 +17,7 @@
       <h5 align="left">🟣 Acredito que o aprendizado é contínuo e que <strong>compartilhar conhecimento e se desafiar sempre são as melhores formas de crescer</strong>. Vamos construir algo incrível juntos? 🚀</h5>
     </td>
     <td>
-      <img src="gifs/gokublack3.gif" width="250px" height="300px">
+      <img src="gifs/gokublack3.gif" width="250px" height="250px">
     </td>
   </tr>
 </table>
