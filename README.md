@@ -26,9 +26,9 @@
 <br/>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,nodejs,mongodb,gitlab,raspberrypi,arduino,nextjs,tailwind" /><br>
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,react ,vscode,github,git,notion,figma,photoshop" /><br>
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,react,github,git" /><br>
     <img src="https://skillicons.dev/icons?i=c,python,javascript,mysql,php,java" /><br>
+    <img src="https://skillicons.dev/icons?i=mysql,eclipse,vscode,notion,figma,photoshop,visualstudio" /><br>
 </div>
 
 
