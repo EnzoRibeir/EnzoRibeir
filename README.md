@@ -60,7 +60,7 @@
   </p>
 </details>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EnzoRibeir&repo=github-readme-stats&theme=jolly)](https://github.com/EnzoRibeir/To-do-list)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EnzoRibeir&repo=To-do-list&theme=jolly)](https://github.com/EnzoRibeir/To-do-list)
 
 <br>
 <picture align="center">
