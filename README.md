@@ -18,8 +18,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-800080?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzo-ribeiro-b6569b240/)
 [![E-mail](https://img.shields.io/badge/-Email-800080?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:enzo.ribeiro.dionisio@gmail.com)
 
-
-
+<br>
 
 <h3 align="center">📚 Linguagens e ferramentas que eu já usei </h3>
 
