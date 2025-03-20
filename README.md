@@ -9,7 +9,6 @@
 <br>
 
 <h2 align="left" style="margin-bottom: 0; padding: 0;">Sobre mim</h2>
-
 <table>
   <tr>
     <td>
@@ -18,7 +17,7 @@
       <h5 align="left">🟣 Acredito que o aprendizado é contínuo e que <strong>compartilhar conhecimento e se desafiar sempre são as melhores formas de crescer</strong>. Vamos construir algo incrível juntos? 🚀</h5>
     </td>
     <td>
-      <img src="gifs/gokublack3.gif" width="600px" height="200px">
+      <img src="gifs/gokublack3.gif" width="250px" height="300px">
     </td>
   </tr>
 </table>
