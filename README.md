@@ -7,7 +7,7 @@
 <h4 align="center">Sou estudante de Desenvolvimento de Software Multiplataforma na FATEC e amo Dragon Ball!🐉💜</h4>
 <br>
  <h2 align="left">Sobre mim</h2>
-<img align="right" alt="goku-black" src="gifs/gokublack3.gif" width="300px" height="400px" >
+<img align="right" alt="goku-black" src="gifs/gokublack3.gif" width="300px" height="300px" >
 
 <h4 align="left">🟣 Movido por desafios e pelo desejo constante de aprender, encontrei na tecnologia um universo onde posso unir <strong>lógica, criatividade e resolução de problemas</strong>. Programação, para mim, não é só escrever código, mas <strong>criar soluções que fazem a diferença</strong>.</h4>
 
