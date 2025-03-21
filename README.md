@@ -60,20 +60,20 @@
 <details open> 
   <summary><h2>📘 Meus Top Projetos</h2></summary>
   <div style="display: flex; align-items: center;">
-    <p style="margin-right: 20px;">
+    <div style="display: flex; flex-wrap: wrap; margin-right: 20px;">
       <a href="https://github.com/EnzoRibeir/To-do-list" style="display: inline-block; margin-right: 10px;">
         <img width="300px" src="https://github-readme-stats.vercel.app/api/pin/?username=EnzoRibeir&repo=To-do-list&theme=jolly" alt="readme-typing-svg">
       </a>
-      <a href="https://github.com/EnzoRibeir/FUTUREMOB_1Semestre" style="display: inline-block;">
+      <a href="https://github.com/EnzoRibeir/FUTUREMOB_1Semestre" style="display: inline-block; margin-right: 10px;">
         <img width="300px" src="https://github-readme-stats.vercel.app/api/pin/?username=EnzoRibeir&repo=FUTUREMOB_1Semestre&theme=jolly" alt="readme-typing-svg">
       </a>
-      <a href="https://github.com/EnzoRibeir/FUTUREMOB_2Semestre" style="display: inline-block;">
+      <a href="https://github.com/EnzoRibeir/FUTUREMOB_2Semestre" style="display: inline-block; margin-right: 10px;">
         <img width="300px" src="https://github-readme-stats.vercel.app/api/pin/?username=EnzoRibeir&repo=FUTUREMOB_2Semestre&theme=jolly" alt="readme-typing-svg">
       </a>
       <a href="https://github.com/EnzoRibeir/FATEC" style="display: inline-block;">
         <img width="300px" src="https://github-readme-stats.vercel.app/api/pin/?username=EnzoRibeir&repo=FATEC&theme=jolly" alt="readme-typing-svg">
       </a>
-    </p>
+    </div>
     <img src="gifs/vegeta.gif" width="100px" height="200px">
   </div>
 </details>
