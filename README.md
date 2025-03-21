@@ -59,7 +59,7 @@
     <a href="https://github.com/EnzoRibeir/To-do-list"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=EnzoRibeir&repo=To-do-list&theme=jolly" alt="readme-typing-svg"></a>
   </p>
 
-  <p align="left">
+  <p align="right">
     <a href="https://github.com/EnzoRibeir/FUTUREMOB_1Semestre"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=EnzoRibeir&repo=FUTUREMOB_1Semestre&theme=jolly" alt="readme-typing-svg"></a>
   </p>
 </details>
