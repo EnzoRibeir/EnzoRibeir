@@ -72,7 +72,7 @@
     <a href="https://github.com/EnzoRibeir/FATEC" style="display: inline-block;">
       <img width="300px" src="https://github-readme-stats.vercel.app/api/pin/?username=EnzoRibeir&repo=FATEC&theme=jolly" alt="readme-typing-svg">
     </a>
-    <img align="right"src="gifs/vegeta.gif" width="100px" height="200px">
+    <img align="right"src="gifs/vegeta.gif" width="200px" >
   </p>
   
 </details>
