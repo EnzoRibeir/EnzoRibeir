@@ -1,7 +1,7 @@
-<div align="center">
-    <img src="gifs/gogeta.gif" width="50%" height="200px">
-</div>
 
+<div align="center">
+  <img src="gifs/majin vs gotenks.gif" width="70%" height="200px">
+</div>
 <br>
 <h1 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lacquer&size=30&letterSpacing=&duration=3000&pause=1000&color=EF2DFF&center=true&width=435&lines=Ol%C3%A1%2C+prazer%2C+eu+sou+o+Enzo!" alt="Typing SVG" /></a>
@@ -85,7 +85,9 @@
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
 </picture>
 
-<img src="gifs/majin vs gotenks.gif" width="100%">
+<div align="center">
+    <img src="gifs/gogeta.gif" width="50%" height="200px">
+</div>
 <!--
 **EnzoRibeir/EnzoRibeir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
