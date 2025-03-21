@@ -2,7 +2,11 @@
     <img src="gifs/gogeta.gif" width="50%" height="200px">
 </div>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lacquer&size=30&letterSpacing=&pause=1000&color=EF2DFF&center=true&width=435&lines=Ol%C3%A1%2C+prazer%2C+eu+sou+o+Enzo!" alt="Typing SVG" /></a>
+<br>
+<h1 align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lacquer&size=30&letterSpacing=&pause=1000&color=EF2DFF&center=true&width=435&lines=Ol%C3%A1%2C+prazer%2C+eu+sou+o+Enzo!" alt="Typing SVG" /></a>
+</h1>
+
 
 <h4 align="center">Sou estudante de Desenvolvimento de Software Multiplataforma na FATEC e amo Dragon Ball!🐉💜</h4>
 
