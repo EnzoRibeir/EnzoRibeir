@@ -55,14 +55,16 @@
 
 <details open> 
   <summary><h2>📘 Meus Top Projetos</h2></summary>
-  <p align="left">
-    <a href="https://github.com/EnzoRibeir/To-do-list"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=EnzoRibeir&repo=To-do-list&theme=jolly" alt="readme-typing-svg"></a>
-  </p>
-
-  <p align="right">
-    <a href="https://github.com/EnzoRibeir/FUTUREMOB_1Semestre"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=EnzoRibeir&repo=FUTUREMOB_1Semestre&theme=jolly" alt="readme-typing-svg"></a>
+  <p align="center">
+    <a href="https://github.com/EnzoRibeir/To-do-list" style="display: inline-block; margin-right: 10px;">
+      <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=EnzoRibeir&repo=To-do-list&theme=jolly" alt="readme-typing-svg">
+    </a>
+    <a href="https://github.com/EnzoRibeir/FUTUREMOB_1Semestre" style="display: inline-block;">
+      <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=EnzoRibeir&repo=FUTUREMOB_1Semestre&theme=jolly" alt="readme-typing-svg">
+    </a>
   </p>
 </details>
+
 
 <br>
 <picture align="center">
