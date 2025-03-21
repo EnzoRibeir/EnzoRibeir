@@ -57,25 +57,23 @@
 
 <br>
 
-<details open>
+<details open> 
   <summary><h2>📘 Meus Top Projetos</h2></summary>
-  <div align="center">
-    <a href="https://github.com/EnzoRibeir/To-do-list">
-      <img width="300px" src="https://github-readme-stats.vercel.app/api/pin/?username=EnzoRibeir&repo=To-do-list&theme=jolly" alt="readme-typing-svg">
+  <p align="left">
+    <a href="https://github.com/EnzoRibeir/To-do-list" style="display: inline-block; margin-right: 10px;">
+      <img width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=EnzoRibeir&repo=To-do-list&theme=jolly" alt="readme-typing-svg">
     </a>
-    <a href="https://github.com/EnzoRibeir/FUTUREMOB_1Semestre">
-      <img width="300px" src="https://github-readme-stats.vercel.app/api/pin/?username=EnzoRibeir&repo=FUTUREMOB_1Semestre&theme=jolly" alt="readme-typing-svg">
+    <a href="https://github.com/EnzoRibeir/FUTUREMOB_1Semestre" style="display: inline-block;">
+      <img width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=EnzoRibeir&repo=FUTUREMOB_1Semestre&theme=jolly" alt="readme-typing-svg">
     </a>
-    <a href="https://github.com/EnzoRibeir/FUTUREMOB_2Semestre">
+    <a href="https://github.com/EnzoRibeir/FUTUREMOB_2Semestre" style="display: inline-block;">
       <img width="300px" src="https://github-readme-stats.vercel.app/api/pin/?username=EnzoRibeir&repo=FUTUREMOB_2Semestre&theme=jolly" alt="readme-typing-svg">
     </a>
-    <a href="https://github.com/EnzoRibeir/FATEC">
+    <a href="https://github.com/EnzoRibeir/FATEC" style="display: inline-block;">
       <img width="300px" src="https://github-readme-stats.vercel.app/api/pin/?username=EnzoRibeir&repo=FATEC&theme=jolly" alt="readme-typing-svg">
     </a>
-  </div>
-  <div align="center">
-    <img src="gifs/vegeta.gif" width="100px" height="200px">
-  </div>
+  </p>
+  <img align="right"src="gifs/vegeta.gif" width="100px" height="200px">
 </details>
 
 
