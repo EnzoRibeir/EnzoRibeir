@@ -2,8 +2,9 @@
     <img src="gifs/gogeta.gif" width="50%" height="200px">
 </div>
 
+<h1 align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lacquer&pause=1000&color=EF2DFF&width=435&lines=Ol%C3%A1%2C+prazer%2C+eu+sou+o+Enzo!" alt="Typing SVG" /></a>
 </h1>
-<h1 align="center">Olá, eu sou o Enzo 😄</h1>
 <h4 align="center">Sou estudante de Desenvolvimento de Software Multiplataforma na FATEC e amo Dragon Ball!🐉💜</h4>
 
 <p align="center">
