@@ -66,7 +66,7 @@
     <a href="https://github.com/EnzoRibeir/FUTUREMOB_1Semestre" style="display: inline-block;">
       <img width="38%"src="https://github-readme-stats.vercel.app/api/pin/?username=EnzoRibeir&repo=FUTUREMOB_1Semestre&theme=jolly" alt="readme-typing-svg">
     </a>
-    <img align="right"src="gifs/vegeta.gif" width="20%" height="30%">
+    <img align="right"src="gifs/vegeta.gif" width="20%" height="25%">
     <a href="https://github.com/EnzoRibeir/FUTUREMOB_2Semestre" style="display: inline-block;">
       <img width="38%" src="https://github-readme-stats.vercel.app/api/pin/?username=EnzoRibeir&repo=FUTUREMOB_2Semestre&theme=jolly" alt="readme-typing-svg">
     </a>
