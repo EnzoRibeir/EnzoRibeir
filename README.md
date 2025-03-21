@@ -29,7 +29,7 @@
       <h5 align="left">🟣 Acredito que o aprendizado é contínuo e que <strong>compartilhar conhecimento e se desafiar sempre são as melhores formas de crescer</strong>. Vamos construir algo incrível juntos? 🚀</h5>
     </td>
     <td>
-      <img src="gifs/gokublack3.gif" width="30%" height="auto">
+      <img src="gifs/gokublack3.gif" width="50%" height="auto">
     </td>
   </tr>
 </table>
